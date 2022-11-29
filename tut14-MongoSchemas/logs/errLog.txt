@@ -1,0 +1,9 @@
+2022/11/26	15:47:23	4f49c176-0928-4ed2-b2e8-ee791466ca0e	TypeError 	 fsPromises.readFil is not a function 
+2022/11/27	14:43:24	4974f66c-d710-49d6-ac2e-48e726de3e8b	Error: Not Allowed by cors 
+2022/11/27	14:43:24	53a9a2fe-0098-4b92-a252-947f38aecdd3	Error: Not Allowed by cors 
+2022/11/27	17:04:42	2ccf0c09-cca0-4a6e-9add-487138ac8ffe	SyntaxError: Unexpected string in JSON at position 16 
+2022/11/27	17:05:59	f37be296-9411-42fe-894c-3ba97cd8d8c9	SyntaxError: Unexpected token } in JSON at position 15 
+2022/11/27	17:35:51	62b68cc6-f531-4613-8983-69e8cecd474b	SyntaxError: Unexpected string in JSON at position 15 
+2022/11/27	17:35:56	910a40e6-f067-45c8-bf18-690c26b7051f	SyntaxError: Unexpected token } in JSON at position 37 
+2022/11/28	10:59:41	ff2456d2-eebf-4b99-9138-ea49b24d2b20	TypeError: allowedOrigns.includes is not a function 
+2022/11/28	11:27:06	1166bcee-3e27-4704-987d-08230a01e9c2	TypeError: authHeader?.startWith is not a function 
